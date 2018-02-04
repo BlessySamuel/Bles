@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/javid/Desktop/bps/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/javid/Desktop/bps/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/javid/Desktop/hello/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/javid/Desktop/hello/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

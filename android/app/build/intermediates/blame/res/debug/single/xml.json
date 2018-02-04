@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/javid/Desktop/bps/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/javid/Desktop/bps/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.1/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/javid/Desktop/hello/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/javid/Desktop/hello/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.1/res/xml/preferences.xml"
+    }
+]
